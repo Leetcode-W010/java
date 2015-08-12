@@ -1,3 +1,3 @@
 # java
 
-Our own codes in python
+Our own codes in java
